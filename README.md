@@ -47,5 +47,5 @@ Each model’s accuracy and other evaluation metrics (precision, recall, F1-scor
 ## How to Run
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/<your-username>/Titanic-Disaster-Prediction-Model.git
+   git clone https://github.com/emoanushka/Titanic-Disaster-Prediction-Model.git
    cd Titanic-Disaster-Prediction-Model
